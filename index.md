@@ -1,7 +1,7 @@
 # Welcome to My User Page
 *By Samuel Zubatiy*
 
-[Skip down to my Lab Checklist](#course-checklist)
+[Skip down to my Course Checklist](#course-checklist)
 
 ## About Me
 I am a student at UCSD and I am **highly motivated** to learn software engineering this quarter in CSE 110. Outside of school I *love* to go surfing and just spend time at the beach.
