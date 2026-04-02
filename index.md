@@ -32,6 +32,7 @@ void convLayer_forward(int B, int M, int C, int H, int W, int K, float* x, float
                                 y[b, m, h, w] += x[b, c, h + p, w + q] * k[m, c, p, q];
                 }
 }
+```
 
 Here are my favorite computer science classes ranked:
 1. CSE 30
