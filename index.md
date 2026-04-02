@@ -29,7 +29,7 @@ void convLayer_forward(int B, int M, int C, int H, int W, int K, float* x, float
                     for(int c = 0; c < C; c++)      // sum over all input feature maps (channels)
                         for(int p = 0; p < K; p++)  // KxK filter
                             for(int q = 0; q < K; q++)
-                                y[b, m, h, w] += x[b, c, h + p, w + q] * k[?, ?, ?, ?];
+                                y[b, m, h, w] += x[b, c, h + p, w + q] * k[m, c, p, q];
                 }
 }
 
