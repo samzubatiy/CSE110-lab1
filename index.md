@@ -13,7 +13,7 @@ I am a student at UCSD and I am **highly motivated** to learn software engineeri
 [Click here to view my project's README file](README.md)
 
 ## My Technical Skills
-Here is a snippet of code I like form my parallel computing class last quarter. This is the process of computing a convolution when you have diiferent input images, output images, 2D elemets in each, different masks, and 2D elements in that mask:
+Here is a snippet of code I like from my parallel computing class last quarter. This is the process of computing a convolution when you have different input images, output images, 2D elements in each, different masks, and 2D elements in that mask:
 
 ```c
 void convLayer_forward(int B, int M, int C, int H, int W, int K, float* x, float* k, float* y)
