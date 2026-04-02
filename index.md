@@ -8,7 +8,7 @@ I am a student at UCSD and I am **highly motivated** to learn software engineeri
 
 > "It's not that I'm so smart, it's just that I stay with problems longer." - Albert Einstein
 
-[Click here to view my profile picture directly](profile.jpg)
+[Click here to view my profile picture directly](profile.jpeg)
 
 [Click here to view my project's README file](README.md)
 
